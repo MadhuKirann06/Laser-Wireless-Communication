@@ -2,7 +2,7 @@
 A hardware project exploring point-to-point wireless audio data transmission using targeted laser modules.
 # Laser Wireless Optical Audio Communication System 🔦
 
-# Laser Wireless Optical Audio Communication System 🔦
+
 
 ## Project Demo
 ▶️ [**Click here to watch the Laser Communication Hardware Demo Video (Google Drive)**](https://drive.google.com/file/d/17tIpdZwa91XO_U8ItGNJpnWbi02V3ZD2/view?usp=sharing)
